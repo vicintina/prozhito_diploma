@@ -1,5 +1,5 @@
 # Магистерская работа
 
-Здесь хранится код ВКР Количественный подход к изучению дневников на материале проекта «Прожито».
+В репозитории хранится код и текст ВКР Количественный подход к изучению дневников на материале проекта «Прожито».
 
-Here the code for the diploma on Quantitative Approach in Studying Diaries based on the Material of the "Prozhito" Project is stored. 
+This repository contains the code and text for my thesis titled 'Quantitative Approach to Studying Diaries Based on the Material from the "Prozhito" Project.'
